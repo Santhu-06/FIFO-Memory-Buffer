@@ -24,4 +24,4 @@ The architecture was thoroughly verified via a custom behavioral testbench (`tb_
 
 ### Functional Verification Waveform
 
-![FIFO Simulation Waveform](waveform.png)
+![FIFO Simulation Waveform](fifo_waveform.png)
